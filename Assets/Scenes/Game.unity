@@ -96,8 +96,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 939ff52f8a2cb1448aac348326aadc6e, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: d7aa0affd4aadd342a76221c71e49e66, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -409,16 +409,16 @@ MonoBehaviour:
   - {fileID: 1029672303}
   - {fileID: 469538904}
   _addressableKeys:
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 1.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 2.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 3.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 4.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 5.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 6.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 7.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 8.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 9.jpg"
-  - "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/Image 10.jpg"
+  - Assets/Resources_moved/Image 1.jpg
+  - Assets/Resources_moved/Image 2.jpg
+  - Assets/Resources_moved/Image 3.jpg
+  - Assets/Resources_moved/Image 4.jpg
+  - Assets/Resources_moved/Image 5.jpg
+  - Assets/Resources_moved/Image 6.jpg
+  - Assets/Resources_moved/Image 7.jpg
+  - Assets/Resources_moved/Image 8.jpg
+  - Assets/Resources_moved/Image 9.jpg
+  - Assets/Resources_moved/Image 10.jpg
 --- !u!1 &266573016
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,7 +12,6 @@ public class Button : MonoBehaviour, IPointerClickHandler {
     }
 
     public void OnPointerClick(PointerEventData eventData) {
-        Debug.Log("Click");
         _on = true;
         HandleClick();
     }
